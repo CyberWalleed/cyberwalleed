@@ -1,35 +1,24 @@
-<h1>Hi, I'm waleed! <br/><a href="https://github.com/joshmadakor1"></a></h1>
+<h1>Hi, I'm waleed! <br/><a href="https://github.com/CyberWalleed"></a></h1>
 
-<h2>👨‍💻 cybersecurity Projects:</h2>
+<h2>Computer Science Student</h2>
+<h3>My goal is to work in cybersecurity.</h3>
+
+<h2>Current Projects</h2>
+<p>I am currently working towards obtaining the following certifications:</p>
+<ul>
+  <li>CompTIA Security+</li>
+  <li>Google Cybersecurity Professional</li>
+</ul>
+<p>In addition to my current projects, I am also going to enrolled in the SOC 1 training program on TryHackMe. The training has a duration of 52 hours, and I am committed to completing it after i obtain my certifications.</p>
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Certifications</h2>
+<ul>
+  <li>- cisco certified network associate </li>
 
-
+</ul>
 <h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
